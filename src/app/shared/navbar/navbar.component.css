@@ -1,0 +1,10 @@
+#header{
+    background-color: #EBDACC !important;
+}
+
+#navbar >ul >li >a{
+    color: #59371C;
+    font-size:larger;
+    font-family: 'Oleo Script', cursive;
+
+}
