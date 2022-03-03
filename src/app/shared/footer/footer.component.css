@@ -1,0 +1,13 @@
+#footer{
+    background-color: #EBDACC !important;
+}
+
+#footer a{
+    color: #59371C;
+    font-size:larger;
+    font-family: 'Oleo Script', cursive;
+}
+
+a:link, a:visited, a:active {
+    text-decoration:none;
+}
