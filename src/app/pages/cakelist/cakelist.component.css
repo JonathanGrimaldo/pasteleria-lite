@@ -1,0 +1,17 @@
+#cakelist{
+    padding-top: 6rem;
+}
+
+.custom_img{
+    height: 310px;
+    object-fit: cover;
+
+}
+.card-title{
+    color: #a38364;
+}
+h2{
+    color: #59371C;
+    font-size:xx-large;
+    font-family: 'Oleo Script', cursive;
+}
