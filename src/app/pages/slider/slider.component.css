@@ -2,3 +2,9 @@
    
     top: 95px;
 }
+
+.bim_image{
+    height: 546px;
+    width: 1013px;
+    object-fit: cover;
+}
